@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou Carlos Magno</h1>
-  <h3>Estudante de Sistemas de Informação | Programador Java e Python</h3>
+  <h3>Estudante de Sistemas de Informação | Aprendendo Java e Python</h3>
 </div>
 
 ## Sobre mim
