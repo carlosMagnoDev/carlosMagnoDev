@@ -14,8 +14,8 @@ Sou um estudante de Sistemas de Informação com paixão pela programação. Meu
   
 <div align="center">
   <a href="https://github.com/carlosMagnoDev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosMagnoDev&show_icons=true&theme=cobalt&include_all_commits=true style="border: 1px solid white; border-radius: 5px;/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosMagnoDev&layout=compact&langs_count=7&theme=cobalt style="border: 1px solid white; border-radius: 5px;/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosMagnoDev&show_icons=true&theme=cobalt&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosMagnoDev&layout=compact&langs_count=7&theme=cobalt"/>
   </a>
 </div>
 
