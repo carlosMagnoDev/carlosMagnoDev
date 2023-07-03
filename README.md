@@ -11,11 +11,15 @@ Sou um estudante de Sistemas de Informação com paixão pela programação. Meu
 - Desenvolvimento Web: HTML, CSS, JavaScript
 - Banco de Dados: MySQL
 - Ferramentas: Git, GitHub
-
+  
 <div align="center">
+  <h2>GitHub Stats</h2>
   <a href="https://github.com/carlosMagnoDev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosMagnoDev&show_icons=true&theme=cobalt&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosMagnoDev&layout=compact&langs_count=7&theme=cobalt"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosMagnoDev&show_icons=true&theme=cobalt&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br />
+  <a href="https://github.com/carlosMagnoDev">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosMagnoDev&layout=compact&langs_count=7&theme=cobalt&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
